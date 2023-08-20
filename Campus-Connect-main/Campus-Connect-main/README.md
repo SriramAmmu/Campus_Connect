@@ -1,4 +1,4 @@
-# Campus Connect RVSCET JAMSHEDPUR
+# Campus Connect
 # Project Description <br>
 Campus Connect is a cutting-edge social media website designed specifically for college students to connect, collaborate, and engage within their campus community. The platform aims to create a dynamic online space where students can easily communicate, share resources, and stay updated with the latest events and discussions on campus.
 
@@ -20,5 +20,4 @@ Campus Connect is a socio-academic portal for the students/alumni of RVSCET
 Making information easily accesecible to each member of the college.
 
 # Deployment 
-https://github.com/Shubham-Kumar-Singh0808/Campus-Commune
-https://tahasin-raza-khan.github.io/Campus-Commune/ 
+https://github.com/SriramAmmu/Campus_Connect
