@@ -15,7 +15,7 @@ In summary, Campus Connect is a social media website designed to facilitate seam
 
 # Motive of this website<br>
 
-Campus Connect is a socio-academic portal for the students/alumni of RVSCET
+Campus Connect is a socio-academic portal for the students/alumni of Adarash Collage Of Engeneering.
 
 Making information easily accesecible to each member of the college.
 
